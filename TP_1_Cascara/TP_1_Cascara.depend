@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1523582257 source:c:\users\lenni\onedrive\escritorio\programacion1y-laboratorio1-master\tp_1_cascara\main.c
+	<stdlib.h>
+	<stdio.h>
+	"funciones.h"
+	<math.h>
+
+1523488321 c:\users\lenni\onedrive\escritorio\programacion1y-laboratorio1-master\tp_1_cascara\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1523488154 source:c:\users\lenni\onedrive\escritorio\programacion1y-laboratorio1-master\tp_1_cascara\funciones.c
+	"funciones.h"
+
